@@ -10,7 +10,7 @@ The RTMP server's purpose is to collect the data from the app and transmit it to
 
 # Equipment and software needed
 ### Hardware
-* DJI O4 module on a 3rd party drone
+* DJI O4 module or DJI drone
 * DJI Goggles 3
 * IPhone 14 (with USB-C to lightning cable)
 
